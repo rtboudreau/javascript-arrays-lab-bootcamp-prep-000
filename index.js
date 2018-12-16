@@ -23,5 +23,5 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(cassie){
-  
+  kittens
 }
