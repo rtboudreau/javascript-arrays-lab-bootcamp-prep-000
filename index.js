@@ -4,4 +4,5 @@ var cassie = "Cassie"
 
 function destructivelyAppendKitten(kittens, cassie){
   kittens.push(cassie);
+  return kittens;
 }
