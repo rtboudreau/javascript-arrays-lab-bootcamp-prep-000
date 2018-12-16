@@ -29,3 +29,7 @@ function appendKitten(cassie){
 function prependKitten(cassie){
   return [cassie, ...kittens];
 }
+
+function removeLastKitten(){
+  kittens.slice(-1);
+}
