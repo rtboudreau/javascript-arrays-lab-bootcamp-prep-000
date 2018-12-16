@@ -22,7 +22,7 @@ function destructivelyRemoveFirstKitten(){
   return kittens;
 }
 
-function appendKitten(cassie){
+function appendKitten(){
   let kittensAlso = kittens.push();
   return kittensAlso;
 }
