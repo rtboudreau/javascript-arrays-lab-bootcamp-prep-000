@@ -23,5 +23,6 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(cassie){
-  kittens
+  let kittensAlso = kittens.push();
+  return kittensAlso;
 }
