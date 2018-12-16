@@ -3,5 +3,5 @@ var cassie = "Cassie"
 // Add your functions and code here
 
 function destructivelyAppendKitten(kittens, cassie){
-  
+  kittens.push(cassie);
 }
